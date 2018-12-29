@@ -1,5 +1,5 @@
 # Useful Scripts and Tools
-A collection of useful scripts to enhance workflow (and type less commands)
+A collection of useful scripts to enhance my own workflow (and type less commands)
 
 - fastCommit- bash script that executes the following (after prompting for a commit message):
 	- git add .
